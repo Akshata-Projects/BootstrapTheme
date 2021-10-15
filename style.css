@@ -98,9 +98,9 @@ button{
 {
     width:100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3),#6f42c1),url('images/Test_back.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.3),#6f42c1),url('Images/Test_back.jpg');
     background-size: cover;
-	background-position: center;
+    background-position: center;
     color: white;
     text-align: center;
     padding-top: 5%;
